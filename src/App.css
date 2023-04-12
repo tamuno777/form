@@ -1,0 +1,16 @@
+.full{
+  border: 1px solid gainsboro;
+  padding-top: 7px;
+  display: block;
+  
+  
+  
+}
+header{
+  color:  #282c34;
+  padding: 7px;
+  box-shadow:0 3px 10px rgba(34, 192, 195, 0.452);
+  position: sticky;
+ 
+}
+

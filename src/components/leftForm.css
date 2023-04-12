@@ -1,0 +1,24 @@
+.box{
+    border: 1px solid gainsboro;
+    background-color: aliceblue;
+    
+    
+}
+.control{
+    padding: 5px 10px;
+    font-size: small;
+}
+.label{
+    border-top: 1px solid gainsboro;
+    padding: 10px;
+}
+.btn{
+    justify-content: center;
+    
+    display: flex;
+    text-align: center;
+}
+.container{
+  padding: 0 50px;
+
+}
